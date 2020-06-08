@@ -1,0 +1,40 @@
+body{
+	background-color: #edf0ef;
+}
+.container1{
+	display: flex;
+	justify-content: flex-end;
+	background-color:#042380;
+	color: white;
+}
+h1{font-weight: bold;
+  color: white;
+   position: relative; 
+	top: 12px;
+	left: -800px;
+}
+.container2{
+	/*text-align: center;*/
+	color: #042380;
+	font-weight: bolder;
+	font-size: 18px;
+	position: relative; 
+	/*top: 12px;*/
+	left: 200px;
+}
+.container3{
+	position: relative;
+	/*top: 2px;*/
+	right:-1000px;
+}
+.container4{
+	display: flex;
+	justify-content: flex-end;
+	/*position: relative;
+	top: 2px;
+	right:-1000px;*/
+}
+.footer{
+	/*display: flex;
+	align-items: flex-end;*/
+}
